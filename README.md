@@ -1,4 +1,4 @@
-### Subject line: My introduction of myself
+# My introduction of myself
 
 Dear students of this course,
 My name is Tung, I'm now a student at a university in Vietnam. My nationality is Vietnamese.
